@@ -1,0 +1,4 @@
+vasya, 8
+anton, 10
+misha, 13
+kolya, 20
